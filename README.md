@@ -15,7 +15,7 @@ Once a week I will release 1 new question to forecast to 100+ friends.
 
 
 Question A:
-What will the average enterprise ransomware payment be in Q3 of 2020?
+How many unique CVEs will be in the June 2020 Google Android Operating System public security bulletin?
 
 Variance of Forecasted Answers:
 
@@ -26,7 +26,7 @@ Variance of Confidence:
 ![Survey3A Results](results/survey_3a_confidence_results.png)
 
 Question B:
-How many unique CVEs will be in the June 2020 Google Android Operating System public security bulletin?
+What will the average enterprise ransomware payment be in Q3 of 2020?
 
 Variance of Forecasted Answers:
 
