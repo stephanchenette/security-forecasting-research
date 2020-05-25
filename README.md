@@ -2,9 +2,12 @@
 Graduate Research and Thesis around Security Forecasting
 
 Summary:
-Research Project for UCSD Masters Thesis that will survey friends within the technology and security community and ask them to forecast certain security related events. The goal of this research is to understand the variance of forecasting across security individuals.
+Hi Everyone! I'm working on completing my masters and to do that I'm soliciting my security friends ot help. My thesis is around analyzing data on the variance of how we all forecast security events and the confidence we have in our forecast. I'll be asking friends that work in both infosec and technology to participate. 
 
-Each week I will release 1 new question to forecast to 100+ friends. 
+If you've never participated in forecasting before, this is a great video to watch: https://www.youtube.com/watch?v=0TNCYVrm8aM
+
+As far as the ask and the methodology.
+Once a week I will release 1 new question to forecast to 100+ friends. 
 
 ## Questions
 
