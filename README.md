@@ -2,7 +2,7 @@
 Graduate Research and Thesis around Security Forecasting
 
 Summary:
-Hi Everyone! I'm working on completing my masters and to do that I'm soliciting my security friends ot help. My thesis is around analyzing data on the variance of how we all forecast security events and the confidence we have in our forecast. I'll be asking friends that work in both infosec and technology to participate. 
+Hi Everyone! I'm working on completing my masters and to do that I'm soliciting my security friends to help with their participation. My thesis is around analyzing data on the variance of how we all forecast security events and the confidence we have in our forecast. I'll be asking friends that work in both infosec and technology to participate. 
 
 If you've never participated in forecasting before, this is a great video to watch: https://www.youtube.com/watch?v=0TNCYVrm8aM
 
