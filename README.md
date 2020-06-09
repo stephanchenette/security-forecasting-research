@@ -15,7 +15,7 @@ Once a week I will release 1 new question to forecast to 100+ friends.
 
 The goal of these questions was to determine if there was any variance between security participants as well as variance compared to technical participants. 
 
-For these questions two things were asked. 1) a specific numerical forecast and an interval e.g. x-y that allowed the participant to choose an interval range where they felt 70% confident the correct answer would be.
+For these questions two things were asked. 1) a specific numerical forecast and 2) an interval e.g. x-y that allowed the participant to choose an interval range where they felt 70% confident the correct answer would be.
 
 
 Question A:
