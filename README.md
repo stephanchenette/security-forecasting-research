@@ -15,7 +15,7 @@ Once a week I will release 1 new question to forecast to 100+ friends.
 
 The goal of these questions was to determine if there was any variance between security participants as well as variance compared to technical participants. 
 
-For these questions two things were asked. 1) a specific numerical forecast and 2) an interval e.g. x-y that allowed the participant to choose an interval range where they felt 70% confident the correct answer would be.
+For these questions two things were asked. 1) a specific numerical forecast and 2) an interval e.g. x-y that allowed the participant to choose an interval range where they felt 70% confident the correct answer would be. You'll see I graphed the forecasted number, and for the interval range I graphed'd the interval size e.g. 100-500 would be an interval size of 400. The thought of graphing this number was that the larger the number, the wider allowance a range the participant felt confortable forecasting with a 70% confidence.
 
 
 Question A:
