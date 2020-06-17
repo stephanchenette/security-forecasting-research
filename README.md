@@ -22,11 +22,11 @@ How many in the wild zero-day exploits for a Microsoft product will be publicly 
 
 Variance of Forecasted Answers (Security Practitioners):
 
-![Survey6 Results](results/survey_6_s_forecast_results.png)
+![Survey6 Results](results/survey_6s_forecast_results.png)
 
 Variance of Forecasted Answers (Technical Practitioners):
 
-![Survey6 Results](results/survey_6_t_forecast_results.png)
+![Survey6 Results](results/survey_6t_forecast_results.png)
 
 
 ### Question for Monday, June 1st (participants either received question A or question B but not both)
