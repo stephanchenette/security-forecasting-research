@@ -11,6 +11,24 @@ Once a week I will release 1 new question to forecast to 100+ friends.
 
 ## Questions
 
+### Question for Monday, June 8th
+
+The goal of these questions was to determine if there was any variance between security participants as well as variance compared to technical participants. In many cases I'm trying to analyze if there is variance also between security practioners of different backgrounds.
+
+For these questions two things were asked. 1) a specific numerical forecast and 2) an interval e.g. x-y that allowed the participant to choose an interval range where they felt 70% confident the correct answer would be. You'll see I graphed the forecasted number, and for the interval range I graphed'd the interval size e.g. 100-500 would be an interval size of 400. The thought of graphing this number was that the larger the number, the wider allowance a range the participant felt confortable forecasting with a 70% confidence.
+
+Question:
+How many in the wild zero-day exploits for a Microsoft product will be publicly discovered in Q4 2020 (October, November, December)?Note:(Forecast an exact number e.g. x, where x is a whole number)(Forecast a range e.g. y-z, where you have 70% confidence that the correct answer will fall within your forecasted range not the format of your answer should be two whole numbers signifying a range e.g. y-z)
+
+Variance of Forecasted Answers (Security Practitioners):
+
+![Survey6 Results](results/survey_6_s_forecast_results.png)
+
+Variance of Forecasted Answers (Technical Practitioners):
+
+![Survey6 Results](results/survey_6_t_forecast_results.png)
+
+
 ### Question for Monday, June 1st (participants either received question A or question B but not both)
 
 The goal of these questions was to determine if there was any variance between security participants as well as variance compared to technical participants. 
