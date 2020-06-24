@@ -11,6 +11,18 @@ Once a week I will release 1 new question to forecast to 100+ friends.
 
 ## Questions
 
+### Question for Monday, June 15th
+
+The goal of these questions was to determine if there was any variance between security participants as well as variance compared to technical participants. In many cases I'm trying to analyze if there is variance also between security practioners of different backgrounds.
+
+How many total GDPR Fines / Penalties for data breaches in f500 companies will be issued in 2020?
+
+![Survey6 Results](results/survey_7s_forecast_results.png)
+
+Variance of Forecasted Answers (Technical Practitioners):
+
+![Survey6 Results](results/survey_7t_forecast_results.png)
+
 ### Question for Monday, June 8th
 
 The goal of these questions was to determine if there was any variance between security participants as well as variance compared to technical participants. In many cases I'm trying to analyze if there is variance also between security practioners of different backgrounds.
