@@ -20,12 +20,15 @@ In this survey, I asked additional questions so you as participants could help m
 How many years until the general public learns of an instance of a processor side-channel attack (e.g., Spector/Meltdown, Zombieload, etc) that was leveraged by a blackhat attacker against cloud infrastructure (i.e. AWS, GCP, Microsoft Azure) of a public company to perform a VM escape or attack shared virtualization resources?
 
 Strategic Security Participants
+
 ![Survey8ss Results](results/survey_8ss_forecast_results.png)
 
 Practinioner Security Participants
+
 ![Survey8ss Results](results/survey_8ts_forecast_results.png)
 
 Non-Security Participants
+
 ![Survey8t Results](results/survey_8t_forecast_results.png)
 
 ### Question for Monday, June 15th
