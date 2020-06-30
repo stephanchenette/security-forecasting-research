@@ -11,6 +11,23 @@ Once a week I will release 1 new question to forecast to 100+ friends.
 
 ## Questions
 
+### Question for Monday, June 22nd
+
+The goal of these questions was to determine if there was any variance between security participants as well as variance compared to technical participants. In many cases I'm trying to analyze if there is variance also between security practioners of different backgrounds.
+
+In this survey, I asked additional questions so you as participants could help me breakdown if there is a variance in background not only in security but between practioner vs strategic. Participants were asked of their background between strategic (1) and practioner (5), I grouped groups 1-2 together and grops 3-5 together. I also asked participants of their security background 1-5 where 5 indicates you do security for your day-job. I grouped anyone in group 4 and 5 into a non-security group (3rd graph).
+
+How many years until the general public learns of an instance of a processor side-channel attack (e.g., Spector/Meltdown, Zombieload, etc) that was leveraged by a blackhat attacker against cloud infrastructure (i.e. AWS, GCP, Microsoft Azure) of a public company to perform a VM escape or attack shared virtualization resources?
+
+Strategic Security Participants
+![Survey8ss Results](results/survey_8ss_forecast_results.png)
+
+Practinioner Security Participants
+![Survey8ss Results](results/survey_8st_forecast_results.png)
+
+Non-Security Participants
+![Survey8t Results](results/survey_8t_forecast_results.png)
+
 ### Question for Monday, June 15th
 
 The goal of these questions was to determine if there was any variance between security participants as well as variance compared to technical participants. In many cases I'm trying to analyze if there is variance also between security practioners of different backgrounds.
