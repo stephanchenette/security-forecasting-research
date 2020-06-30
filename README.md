@@ -23,7 +23,7 @@ Strategic Security Participants
 ![Survey8ss Results](results/survey_8ss_forecast_results.png)
 
 Practinioner Security Participants
-![Survey8ss Results](results/survey_8st_forecast_results.png)
+![Survey8ss Results](results/survey_8ts_forecast_results.png)
 
 Non-Security Participants
 ![Survey8t Results](results/survey_8t_forecast_results.png)
